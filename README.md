@@ -8,7 +8,9 @@ This is a repository for my data analytics projects, skills, and progress update
 
 <h2>Portfolio Projects</h2>
 
- <h3>Cyclistic Bike-Share</h3> This project is based on a case study from the Google Data Analytics Professional Certification Course offered by Coursera. The dataset contains historical bicycle riding data from January 2023 to December 2023. The project's focus was on analyzing the riding patterns of different bike users.
+ <h3>Cyclistic Bike-Share</h3>
+ 
+This project is based on a case study from the Google Data Analytics Professional Certification Course offered by Coursera. The dataset contains historical bicycle riding data from January 2023 to December 2023. The project's focus was on analyzing the riding patterns of different bike users. Details of the project can be found [here](https://github.com/gulsenblt/Data-Analyst-Portfolio/tree/main/Cyclistic%20bike-share).
 
 <h2>Certificate</h2>
 
