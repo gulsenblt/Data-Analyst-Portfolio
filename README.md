@@ -6,6 +6,10 @@ My CV in [pdf](https://github.com/gulsenblt/Data-Analyst-Portfolio/blob/main/CV%
 
 This is a repository for my data analytics projects, skills, and progress updates.
 
+<h2>Portfolio Projects</h2>
+
+ <h3>Cyclistic Bike-Share</h3> This project is based on a case study from the Google Data Analytics Professional Certification Course offered by Coursera. The dataset contains historical bicycle riding data from January 2023 to December 2023. The project's focus was on analyzing the riding patterns of different bike users.
+
 <h2>Certificate</h2>
 
 ![](https://github.com/gulsenblt/Data-Analyst-Portfolio/blob/e84deb5cc6a1733c2689ca540bbc4f8ed3940c52/Google%20Data%20Analytics.svg)
