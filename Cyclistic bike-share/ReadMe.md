@@ -1,7 +1,7 @@
 	
-**CYCLISTIC BIKE-SHARE DATA EXPLORATION**
-Author: Gülsen Balta Date: 17-04-2023
-Background information
+<h2>CYCLISTIC BIKE-SHARE DATA EXPLORATION</h2>
+**Author:** Gülsen Balta **Date:** 17-04-2023
+**Background information**
 This project is based on a case study from the Google Data Analytics Professional Certification Course. The case study focuses on Cyclistic, a bike-share company in Chicago. There are two categories of bike users: annual members and casual riders.  Casual rider are customers who purchase single-ride or full-day passes, while members are those who purchase annual memberships. The marketing director thinks the company should focus on getting more yearly members to grow.  The analyst team wants to understand how yearly members and casual riders use their bikes differently, so this will help the company make a new marketing plan. The goal of this project is to analyze the usage pattern of casual and annual members.
 Business question:How do annual members and casual rider s use Cyclistic differently?
 Data Sourse: This project used Cyclist's historical trip data from January 2023 to December 2023 tripdata. The data has been made available by Motivate International Inc. under this license. The data had been cleared of riders’ personally identifiable information for privacy concerns.
