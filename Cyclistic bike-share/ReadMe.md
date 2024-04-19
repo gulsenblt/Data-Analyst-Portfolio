@@ -14,7 +14,7 @@ This project is based on a case study from the Google Data Analytics Professiona
 
 <h4>Tools Used:</h4>
 
-<p>SQL to process and clean data for further analysis [(code)]() </p>
+<p>SQL to process and clean data for further analysis [code](/https://github.com/gulsenblt/Data-Analyst-Portfolio/blob/main/Cyclistic%20bike-share/SQL%20data%20wrangling.sql) </p>
 
 
 Tableau to visualize data (click [here](https://public.tableau.com/views/CyclisticBikeShare_17131724330590/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) for interactive dashboard to see analysis result)
