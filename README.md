@@ -16,3 +16,4 @@ This project is based on a case study from the Google Data Analytics Professiona
 
 ![](https://github.com/gulsenblt/Data-Analyst-Portfolio/blob/e84deb5cc6a1733c2689ca540bbc4f8ed3940c52/Google%20Data%20Analytics.svg)
 
+![](https://github.com/gulsenblt/Data-Analyst-Portfolio/blob/de0fb0fd56a831e2cf4b1bcf60138edfddd87a89/Tableau.svg)
